@@ -1,0 +1,24 @@
+﻿<Window
+        xmlns:Wpf="clr-namespace:Microsoft.Web.WebView2.Wpf;assembly=Microsoft.Web.WebView2.Wpf"  x:Class="TVBS.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TVBS"
+        xmlns:wv2="clr-namespace:Microsoft.Web.WebView2.Wpf;assembly=Microsoft.Web.WebView2.Wpf"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Viewbox>
+        <Grid Height="360" Width="640">
+
+            <ListBox x:Name="TVList" HorizontalAlignment="Left" SelectionChanged="TVList_SelectionChanged" />
+
+            <wv2:WebView2 Name = "webview" Grid.ColumnSpan="2" Visibility="Hidden"/>
+            <Button x:Name="選擇" Content="選擇" HorizontalAlignment="Left" Margin="443,42,0,0" VerticalAlignment="Top" Height="48" Width="123" Click="選擇_Click"/>
+
+
+        </Grid>
+
+    </Viewbox>
+
+</Window>

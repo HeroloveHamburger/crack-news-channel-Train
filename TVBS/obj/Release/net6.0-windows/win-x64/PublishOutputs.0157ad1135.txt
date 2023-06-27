@@ -1,0 +1,9 @@
+E:\source\repos\TVBS\TVBS\bin\Release\net6.0-windows\publish\win-x64\TVBS.pdb
+E:\source\repos\TVBS\TVBS\bin\Release\net6.0-windows\publish\win-x64\runtimes\win-x64\native\WebView2Loader.dll
+E:\source\repos\TVBS\TVBS\bin\Release\net6.0-windows\publish\win-x64\D3DCompiler_47_cor3.dll
+E:\source\repos\TVBS\TVBS\bin\Release\net6.0-windows\publish\win-x64\PenImc_cor3.dll
+E:\source\repos\TVBS\TVBS\bin\Release\net6.0-windows\publish\win-x64\PresentationNative_cor3.dll
+E:\source\repos\TVBS\TVBS\bin\Release\net6.0-windows\publish\win-x64\vcruntime140_cor3.dll
+E:\source\repos\TVBS\TVBS\bin\Release\net6.0-windows\publish\win-x64\wpfgfx_cor3.dll
+E:\source\repos\TVBS\TVBS\bin\Release\net6.0-windows\publish\win-x64\WebView2Loader.dll
+E:\source\repos\TVBS\TVBS\bin\Release\net6.0-windows\publish\win-x64\TVBS.exe
